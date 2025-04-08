@@ -7,7 +7,7 @@ This program demonstrates several fundamental CPU scheduling algorithms using Py
 
 ---
 
-## 📋 Overview
+## Overview
 
 This scheduling simulator includes the following algorithms:
 
